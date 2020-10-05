@@ -1,4 +1,4 @@
-__pycache__
+flaskblog/__pycache__
 .vscode
 flaskblog/site.db
 flaskblog/__init__.pyc

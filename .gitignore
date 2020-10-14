@@ -2,3 +2,5 @@ flaskblog/__pycache__
 .vscode
 flaskblog/site.db
 flaskblog/__init__.pyc
+venv
+.idea

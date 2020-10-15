@@ -4,3 +4,4 @@ flaskblog/site.db
 flaskblog/__init__.pyc
 venv
 .idea
+__pycache__
